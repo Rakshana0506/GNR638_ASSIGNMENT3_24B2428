@@ -3,7 +3,7 @@
 **Author:** Rakshana Sundaram  
 **Roll Number:** 24B2428  
 
-## Project Overview
+## Overview
 This repository contains a "from scratch" PyTorch implementation of the DeepLabv3+ semantic segmentation architecture, as proposed in the paper *"Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"* (ECCV 2018). 
 
 The objective of this assignment is to structurally recreate the core components of the network—specifically Depthwise Separable Convolutions, the Atrous Spatial Pyramid Pooling (ASPP) module, and the Encoder-Decoder fusion block—without relying on pre-built segmentation libraries.
